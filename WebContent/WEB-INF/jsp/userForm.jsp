@@ -8,7 +8,7 @@
 <title>Registration Page New Build</title>
 </head>
 <body>
-
+<div>User registration form </div>
 <form:form method="POST" commandName="user">
 	<table>
 		<tr>
